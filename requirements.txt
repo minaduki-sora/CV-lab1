@@ -1,6 +1,7 @@
-accelerate==1.6.0
-matplotlib==3.9.2
-torch==2.7.0
-torchvision==0.22.0
-tqdm==4.66.5
-numpy==1.26.4
+accelerate
+matplotlib
+torch
+torchvision
+tqdm
+numpy
+scikit-learn
